@@ -7,7 +7,6 @@ import concurrent.futures
 
 def fetch_url(url):
     t1 = time.time()
-    msg = ""
     with urllib.request.urlopen(url) as f:
         tt = time.time() - t1
         data = f.read(320).decode('utf-8')[:80]
@@ -36,6 +35,7 @@ def get_max_threads(max, threshold=50):
         return max
     else:
         return threshold
+
 
 # fetch urls by sending in batches.
 start = time.time()
