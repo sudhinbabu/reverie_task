@@ -1,0 +1,15 @@
+https://timestampgenerator.com/tools/xml-sitemap-from-list
+https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+https://stackoverflow.com/questions/35469386/send-values-to-python-coroutine-without-handling-stopiteration
+https://amir.rachum.com/blog/2017/03/03/generator-cleanup/
+https://www.facebook.com/
+https://timestampgenerator.com/tools/xml-sitemap-from-list
+https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+https://stackoverflow.com/questions/35469386/send-values-to-python-coroutine-without-handling-stopiteration
+https://amir.rachum.com/blog/2017/03/03/generator-cleanup/
+https://www.facebook.com/
+https://timestampgenerator.com/tools/xml-sitemap-from-list
+https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+https://stackoverflow.com/questions/35469386/send-values-to-python-coroutine-without-handling-stopiteration
+https://amir.rachum.com/blog/2017/03/03/generator-cleanup/
+https://www.facebook.com/
